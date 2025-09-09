@@ -1,2 +1,1 @@
-#nguyen-duy-thanh
-Giới thiệu: Tôi là nguyen duy thanh, MSSV 226199.
+Đây là README từ nhánh conflict-demo.
